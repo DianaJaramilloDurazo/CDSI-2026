@@ -1,0 +1,42 @@
+{
+  "version": "V2_anger",
+  "metrics": {
+    "accuracy": 0.6842105263157895,
+    "precision": 0.45454545454545453,
+    "recall": 0.1724137931034483,
+    "f1_macro": 0.525,
+    "roc_auc": 0.5475444096133751
+  },
+  "shap_ranking": [
+    {
+      "feature": "mean_eeg_af7_post",
+      "mean_abs_shap": 0.05656
+    },
+    {
+      "feature": "mean_eeg_tp10_post",
+      "mean_abs_shap": 0.038046
+    },
+    {
+      "feature": "frontal_asymmetry",
+      "mean_abs_shap": 0.037902
+    },
+    {
+      "feature": "mean_eeg_tp9_post",
+      "mean_abs_shap": 0.035703
+    },
+    {
+      "feature": "lf_hf_baseline",
+      "mean_abs_shap": 0.024898
+    },
+    {
+      "feature": "mean_eeg_af8_post",
+      "mean_abs_shap": 0.016503
+    }
+  ],
+  "transactions": {
+    "preprocessing": "cf6bf9bc7067875daa37ba473f2ba4dbc97b37e922f3c17db865870603d082f4",
+    "training": "fe3d4be440af3ffe6e13a393050b1641066cbc5314e57d106875bdffbeb0571d",
+    "explainability": "32be229fefff8c9732defb4b32a30b9d05700eda2dbcbd91e85e29fb14119e00",
+    "inference": "71bfba8f10de690be7e46d99e56c5621c341d40c9ed5c14c223fd2278a2d3c0e"
+  }
+}
