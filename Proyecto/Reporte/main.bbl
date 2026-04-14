@@ -1,0 +1,350 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{birantSTDBSCANAlgorithmClustering2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ad1ad90ef84a99a662c28083e5887f15}{%
+           family={Birant},
+           familyi={B\bibinitperiod},
+           given={Derya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d07e8d5e9b513847107e6b5c3618f418}{%
+           family={Kut},
+           familyi={K\bibinitperiod},
+           given={Alp},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9c2922ab759040b30446bbad3945dbb}
+      \strng{fullhash}{f9c2922ab759040b30446bbad3945dbb}
+      \strng{fullhashraw}{f9c2922ab759040b30446bbad3945dbb}
+      \strng{bibnamehash}{f9c2922ab759040b30446bbad3945dbb}
+      \strng{authorbibnamehash}{f9c2922ab759040b30446bbad3945dbb}
+      \strng{authornamehash}{f9c2922ab759040b30446bbad3945dbb}
+      \strng{authorfullhash}{f9c2922ab759040b30446bbad3945dbb}
+      \strng{authorfullhashraw}{f9c2922ab759040b30446bbad3945dbb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0169023X}
+      \field{journaltitle}{Data \& Knowledge Engineering}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Data \& Knowledge Engineering}
+      \field{shorttitle}{{{ST-DBSCAN}}}
+      \field{title}{{{ST-DBSCAN}}: {{An}} Algorithm for Clustering Spatial–Temporal Data}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{60}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{208\bibrangedash 221}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.datak.2006.01.013
+      \endverb
+      \verb{file}
+      \verb C:\Users\Pocho\Zotero\storage\XTWUPWF9\Birant y Kut - 2007 - ST-DBSCAN An algorithm for clustering spatial–temporal data.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0169023X06000218
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0169023X06000218
+      \endverb
+    \endentry
+    \entry{tahaCorrelationArchersHands2016c}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=7b88c8c0760d67f4ec2cff9460b4498f}{%
+           family={Taha},
+           familyi={T\bibinitperiod},
+           given={Zahari},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=236311254980ea85d8afaab713eb228a}{%
+           family={Mat-Jizat},
+           familyi={M\bibinithyphendelim J\bibinitperiod},
+           given={Jessnor\bibnamedelima Arif},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9015b17909234b2bf99281a3d8a14bcf}{%
+           family={Omar},
+           familyi={O\bibinitperiod},
+           given={Syed\bibnamedelimb Faris\bibnamedelima Syed},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2d090c5ef10665a3a7914c2759f136ae}{%
+           family={Suwarganda},
+           familyi={S\bibinitperiod},
+           given={Edin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c6991cd22aec75b353785c710ce9b0a}
+      \strng{fullhash}{90dee1df1c3ab3a061ee4b76d65fe77f}
+      \strng{fullhashraw}{90dee1df1c3ab3a061ee4b76d65fe77f}
+      \strng{bibnamehash}{90dee1df1c3ab3a061ee4b76d65fe77f}
+      \strng{authorbibnamehash}{90dee1df1c3ab3a061ee4b76d65fe77f}
+      \strng{authornamehash}{5c6991cd22aec75b353785c710ce9b0a}
+      \strng{authorfullhash}{90dee1df1c3ab3a061ee4b76d65fe77f}
+      \strng{authorfullhashraw}{90dee1df1c3ab3a061ee4b76d65fe77f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In archery, the most critical time is a few seconds before the release of the arrows because the trajectory of the released arrows is dependent on the movement of the archers arm in the release phase. Archers uses two hands while drawing a bow, one hand to push on the bow riser and the other to pull the string. The archer's performance can be quantified through the analysis of the movement of both the archer's both arm while they release the arrow. In this paper, a study of archers’ arm movement while shooting using recurved bow is presented. In the experiments, university level archers shot six arrows per frame and each archers shot three frames each whilst wearing a dedicated small sized accelerometer in both arms. The generated data, in terms of linear acceleration, were streamed in real time to a computer wirelessly via Bluetooth. The sampling rate of the accelerometer was about 15Hz. The forward-reverse, up-down, left-right motion of both arms as well as the score and the position of the arrow of each shot were recorded. A high score category is when an archer shot ten, nine, and eight points while three, two, and one points score is a low score category. The analysis of the data showed a correlation between the archers’ arm movement and their score. The linear acceleration pattern for a higher score is very similar to the lower score; however, the average time taken before release for lower scores is about one second longer than the average time taken for higher scores.}
+      \field{day}{1}
+      \field{issn}{1877-7058}
+      \field{journaltitle}{Procedia Engineering}
+      \field{month}{1}
+      \field{series}{The {{Engineering}} of {{SPORT}} 11}
+      \field{shortjournal}{Procedia Engineering}
+      \field{title}{Correlation between {{Archer}}'s {{Hands Movement While Shooting}} and Its {{Score}}}
+      \field{urlday}{12}
+      \field{urlmonth}{2}
+      \field{urlyear}{2026}
+      \field{volume}{147}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{145\bibrangedash 150}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.proeng.2016.06.204
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Pocho\\Zotero\\storage\\S92PYA5W\\Taha et al. - 2016 - Correlation between Archer's Hands Movement While Shooting and its Score.pdf;C\:\\Users\\Pocho\\Zotero\\storage\\VCV72KNW\\S1877705816306518.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877705816306518
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1877705816306518
+      \endverb
+      \keyw{accelerometer,archery,recurved bow,vibration}
+    \endentry
+    \entry{quanAnalysisShootingConsistency2017b}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c95aaad501a8005f521fc4f370af479c}{%
+           family={Quan},
+           familyi={Q\bibinitperiod},
+           given={Cheng-Hao},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=c50de1d7094f38956750041a38a536ad}{%
+           family={Mohy-Ud-Din},
+           familyi={M\bibinithyphendelim U\bibinithyphendelim D\bibinitperiod},
+           given={Zia},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=df97c366df59f8cd33f141980c92f399}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sangmin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3db98b9364ed5ad9588d9c2caadd962c}
+      \strng{fullhash}{0bdd1556a38261040d620c77907bbb6b}
+      \strng{fullhashraw}{0bdd1556a38261040d620c77907bbb6b}
+      \strng{bibnamehash}{0bdd1556a38261040d620c77907bbb6b}
+      \strng{authorbibnamehash}{0bdd1556a38261040d620c77907bbb6b}
+      \strng{authornamehash}{3db98b9364ed5ad9588d9c2caadd962c}
+      \strng{authorfullhash}{0bdd1556a38261040d620c77907bbb6b}
+      \strng{authorfullhashraw}{0bdd1556a38261040d620c77907bbb6b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The shooting consistency of an archer is commonly perceived to be an important determinant of successful scores. Four (n = 4) elementary level archers from a middle school in Korea participated in this study. In order to quantify shooting consistency, movement of the bow forearm was measured with an inertia sensor during archery shooting. The shooting consistency was calculated and defined by the dynamic time warping (DTW) algorithm as the distance between two time sequences of acceleration data. Small distance values indicate that the archer has maintained high-level shooting consistency while archery shooting repetitively. To verify the shooting consistency metric, the relationship between scores and shooting consistency is evaluated. The results show that the higher the scores achieved by the archer, the higher is the level of shooting consistency demonstrated.}
+      \field{issn}{1687-7268}
+      \field{journaltitle}{Journal of Sensors}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Analysis of {{Shooting Consistency}} in {{Archers}}}
+      \field{title}{Analysis of {{Shooting Consistency}} in {{Archers}}: {{A Dynamic Time Warping Algorithm-Based Approach}}}
+      \field{urlday}{12}
+      \field{urlmonth}{2}
+      \field{urlyear}{2026}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{7471217}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1155/2017/7471217
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Pocho\\Zotero\\storage\\9UBVI9RJ\\Quan et al. - 2017 - Analysis of Shooting Consistency in Archers A Dynamic Time Warping Algorithm-Based Approach.pdf;C\:\\Users\\Pocho\\Zotero\\storage\\ZL6ZIRUK\\7471217.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1155/2017/7471217
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1155/2017/7471217
+      \endverb
+    \endentry
+    \entry{konstantinovskyIntroductionSavitzkyGolayFilter2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b7493afd73ebdcb10c760520b5232467}{%
+           family={Konstantinovsky},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{b7493afd73ebdcb10c760520b5232467}
+      \strng{fullhash}{b7493afd73ebdcb10c760520b5232467}
+      \strng{fullhashraw}{b7493afd73ebdcb10c760520b5232467}
+      \strng{bibnamehash}{b7493afd73ebdcb10c760520b5232467}
+      \strng{authorbibnamehash}{b7493afd73ebdcb10c760520b5232467}
+      \strng{authornamehash}{b7493afd73ebdcb10c760520b5232467}
+      \strng{authorfullhash}{b7493afd73ebdcb10c760520b5232467}
+      \strng{authorfullhashraw}{b7493afd73ebdcb10c760520b5232467}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Smoothing Data with Precision: Step-by-Step Applications and Visualizations in Python}
+      \field{day}{15}
+      \field{hour}{5}
+      \field{langid}{english}
+      \field{minute}{47}
+      \field{month}{8}
+      \field{second}{50}
+      \field{shorttitle}{Introduction to the {{Savitzky-Golay Filter}}}
+      \field{title}{Introduction to the {{Savitzky-Golay Filter}}: {{A Comprehensive Guide}} ({{Using Python}})}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\Pocho\Zotero\storage\PSWHCDYK\introduction-to-the-savitzky-golay-filter-a-comprehensive-guide-using-python-b2dd07a8e2ce.html
+      \endverb
+      \verb{urlraw}
+      \verb https://medium.com/pythoneers/introduction-to-the-savitzky-golay-filter-a-comprehensive-guide-using-python-b2dd07a8e2ce
+      \endverb
+      \verb{url}
+      \verb https://medium.com/pythoneers/introduction-to-the-savitzky-golay-filter-a-comprehensive-guide-using-python-b2dd07a8e2ce
+      \endverb
+    \endentry
+    \entry{winlandQueEsAgrupacion2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4ec58f0df4970367a5d7176dcd294c0d}{%
+           family={Winland},
+           familyi={W\bibinitperiod},
+           given={Eda\bibnamedelima Kavlakoglu},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           suffix={Vanna},
+           suffixi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ec58f0df4970367a5d7176dcd294c0d}
+      \strng{fullhash}{4ec58f0df4970367a5d7176dcd294c0d}
+      \strng{fullhashraw}{4ec58f0df4970367a5d7176dcd294c0d}
+      \strng{bibnamehash}{4ec58f0df4970367a5d7176dcd294c0d}
+      \strng{authorbibnamehash}{4ec58f0df4970367a5d7176dcd294c0d}
+      \strng{authornamehash}{4ec58f0df4970367a5d7176dcd294c0d}
+      \strng{authorfullhash}{4ec58f0df4970367a5d7176dcd294c0d}
+      \strng{authorfullhashraw}{4ec58f0df4970367a5d7176dcd294c0d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{El agrupamiento de medias K es un algoritmo de aprendizaje no supervisado utilizado para la agrupación en clústeres de datos, que reúne puntos de datos no etiquetados en grupos o clústeres.}
+      \field{day}{26}
+      \field{hour}{0}
+      \field{langid}{spanish}
+      \field{minute}{0}
+      \field{month}{6}
+      \field{second}{0}
+      \field{shorttitle}{¿Qué es la agrupación en clústeres k-means?}
+      \field{title}{¿Qué es la agrupación en clústeres k-means? | IBM}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\Pocho\Zotero\storage\7SSYFSUJ\k-means-clustering.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ibm.com/mx-es/think/topics/k-means-clustering
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/mx-es/think/topics/k-means-clustering
+      \endverb
+    \endentry
+    \entry{AgglomerativeClustering}{online}{}{}
+      \list{organization}{1}{%
+        {scikit-learn}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gallery examples: Agglomerative clustering with different metrics Plot Hierarchical Clustering Dendrogram Comparing different clustering algorithms on toy datasets A demo of structured Ward hierarc...}
+      \field{langid}{english}
+      \field{title}{{{AgglomerativeClustering}}}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\Pocho\Zotero\storage\KBLL578C\sklearn.cluster.AgglomerativeClustering.html
+      \endverb
+      \verb{urlraw}
+      \verb https://scikit-learn/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html
+      \endverb
+      \verb{url}
+      \verb https://scikit-learn/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html
+      \endverb
+    \endentry
+    \entry{archerystages}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=74efffe2b88a0d6ba2c69a1ac0d85735}{%
+           family={Archery},
+           familyi={A\bibinitperiod},
+           given={World},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \strng{fullhash}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \strng{fullhashraw}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \strng{bibnamehash}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \strng{authorbibnamehash}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \strng{authornamehash}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \strng{authorfullhash}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \strng{authorfullhashraw}{74efffe2b88a0d6ba2c69a1ac0d85735}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://extranet.worldarchery.sport/documents/index.php/Media/Information_Sheets/003_Guide_to_Recurve_Technique.pdf
+      \endverb
+      \verb{url}
+      \verb https://extranet.worldarchery.sport/documents/index.php/Media/Information_Sheets/003_Guide_to_Recurve_Technique.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
